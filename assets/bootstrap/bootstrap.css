@@ -6055,8 +6055,9 @@ textarea.form-control-lg {
   color: #fff;
   text-align: center;
   background: none;
-  border: 0;
-  opacity: 0.5;
+  border: 1px black solid;
+  opacity: 1;
+  outline: 1px black;
   transition: opacity 0.15s ease;
 }
 @media (prefers-reduced-motion: reduce) {
@@ -6070,7 +6071,7 @@ textarea.form-control-lg {
 .carousel-control-next:focus {
   color: #fff;
   text-decoration: none;
-  outline: 0;
+  outline: 1px black;
   opacity: 1;
 }
 
