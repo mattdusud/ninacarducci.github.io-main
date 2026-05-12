@@ -6055,7 +6055,7 @@ textarea.form-control-lg {
   color: #fff;
   text-align: center;
   background: none;
-  border: 1px black solid;
+  border: none;
   opacity: 1;
   outline: 1px black solid;
   transition: opacity 0.15s ease;
