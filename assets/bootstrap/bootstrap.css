@@ -6089,6 +6089,7 @@ textarea.form-control-lg {
   background-repeat: no-repeat;
   background-position: 50%;
   background-size: 100% 100%;
+  color: black;
 }
 
 /* rtl:options: {
@@ -6586,6 +6587,7 @@ textarea.form-control-lg {
   clip: rect(0, 0, 0, 0) !important;
   white-space: nowrap !important;
   border: 0 !important;
+  color: black;
 }
 
 .stretched-link::after {
