@@ -1,6 +1,6 @@
-# Nina Carducci
+# Nina Carducci - Projet OpenClassrooms - Optimisation SEO
 
-Nina Carducci est une photographe dont le site a beosin d'optimisation, tant techniques que pour le référencement.
+Nina Carducci est une photographe dont le site a besoin d'optimisation, tant techniques que pour le référencement.
 
 
 ## Techologie
